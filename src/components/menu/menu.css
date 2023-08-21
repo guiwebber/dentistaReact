@@ -1,0 +1,28 @@
+.logo {
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.imgLogo {
+    width: 30px;
+    height: 30px;
+    
+}
+.titleLogo {
+    font-weight: 300;
+    padding: 0 10px;
+}
+.menuTopo {
+    padding: 20px;
+    background-color: rgb(31, 31, 107);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+.linkNav {
+    color: white;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: 500;
+}

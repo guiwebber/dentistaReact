@@ -1,0 +1,146 @@
+.topHome {
+    background-color: rgb(31, 31, 107);
+}
+
+.orange {
+    color: orange;
+}
+
+.title {
+    font-weight: 300;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 40px;
+}
+
+.texto {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 300;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+.box img {
+    margin: 5px;
+}
+.box p {
+    color: white;
+}
+
+.box4 {
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+/* **********************END TOP************************** */
+
+
+/* ***********************START MID******************** */
+
+.midHome .title, .topCtt .title, .clientes .title {
+    font-size: 2rem;
+    color: rgb(65, 65, 65);
+}
+
+.imgHome {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* **********************COMEÇO DENTISTAS************************ */
+
+.imgDentista {
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+}
+.dentista {
+    margin: 10px;
+}
+.dentista p {
+    padding: 10px;
+}
+
+/* ************************FIM DENTISTAS********************** */
+
+
+
+/* ******************PAGINA CONTATO******************** */
+
+.topCtt {
+    text-align: center;
+}
+.dentistaCliente {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.local {
+    text-align: center;
+}
+
+
+/* ***********************FIM PAGINA CONTATO************************* */
+
+
+
+/* ***********************INICIO FOOTER*********************** */
+.footer {
+    background-color: rgb(31, 31, 107);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+}
+/* *************************FIM FOOTER********************* */
+
+
+
+/* **************************MELHORIAS***************** */
+
+.melhorias {
+    display: flex;
+    width: 80%;
+    margin-top: 50px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.boxMelhorias {
+    width: 25%;
+    margin: auto;
+}
+
+
+
+.cliente {
+    margin: 10px;
+    width: 350px;
+}
+
+.botao button {
+    padding: 20px;
+    background-color: rgb(31, 31, 107);
+    text-transform: uppercase;
+    border: none;
+    margin: 20px;
+}
+.botao {
+    text-align: center;
+}
+.color {
+    color: white;
+}
